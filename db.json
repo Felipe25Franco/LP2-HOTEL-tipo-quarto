@@ -1,0 +1,48 @@
+{
+ "tipoQuarto": [
+    {
+      "id": 1,
+      "titulo": "suite master",
+      "descricao": "xxxxxxxxxxxx",
+      "limiteAdulto": 4,
+      "limiteCrianca": 2,
+      "precoBase": 500,
+      "avaliacaoMedia": 5,
+      "diasCancelarReserva": 1,
+      "area": 70
+    },
+    {
+      "id": 2,
+      "titulo": "standart deluxe 1",
+      "descricao": "xxxxxxxxxxxx",
+      "limiteAdulto": 4,
+      "limiteCrianca": 2,
+      "precoBase": 500,
+      "avaliacaoMedia": 5,
+      "diasCancelarReserva": 1,
+      "area": 70
+    },
+    {
+      "id": 3,
+      "titulo": "standart deluxe 2",
+      "descricao": "xxxxxxxxxxxx",
+      "limiteAdulto": 4,
+      "limiteCrianca": 2,
+      "precoBase": 500,
+      "avaliacaoMedia": 5,
+      "diasCancelarReserva": 1,
+      "area": 70
+    },
+    {
+      "id": 4,
+      "titulo": "quaro king - frente mar",
+      "descricao": "xxxxxxxxxxxx",
+      "limiteAdulto": 4,
+      "limiteCrianca": 2,
+      "precoBase": 500,
+      "avaliacaoMedia": 5,
+      "diasCancelarReserva": 1,
+      "area": 70
+    }
+  ]
+}
